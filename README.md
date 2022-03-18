@@ -1,2 +1,3 @@
 Weather App
-#Check current weather in your city!
+
+Check current weather in your city!
